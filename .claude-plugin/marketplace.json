@@ -1,0 +1,17 @@
+{
+  "name": "indahl-cannot-tell",
+  "owner": {
+    "name": "Heuremen LLC",
+    "url": "https://indahl.ai"
+  },
+  "plugins": [
+    {
+      "name": "indahl-cannot-tell",
+      "source": "./",
+      "description": "Answer \"cannot tell yet\" usefully instead of forcing a guess. Returns the range of what is possible, the one or two facts that would decide it, and the cheapest next step. Runs inside your session.",
+      "version": "1.0.0",
+      "category": "research",
+      "homepage": "https://indahl.ai/standard"
+    }
+  ]
+}
